@@ -74,4 +74,4 @@ app.post('/comments', [
 })
 
 // update comment by id
-app.put('/comments
+app.put('/comments')
